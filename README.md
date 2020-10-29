@@ -1,4 +1,4 @@
- Twitter clone
+# Gif Explorer
 
 Aplicación desarrollada en React.js con la api Giphy para obtener gifs usando un buscador básico. 
 
